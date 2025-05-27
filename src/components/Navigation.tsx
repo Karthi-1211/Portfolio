@@ -55,7 +55,7 @@ const Navigation = () => {
 
         <Button className="bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700 text-white">
           <a
-             href="C:\Users\karthik\OneDrive\Desktop\Portfolio\Alamanda_Balu_Karthik.pdf" // Adjust this path based on your PDF location
+             href="https://drive.google.com/file/d/1h2WpqApLtVCiKLUXQnItTpNi52Hb_FKc/view?usp=sharing" // Adjust this path based on your PDF location
               download="Alamanda_Balu_Karthik.pdf" // Optional: customize the downloaded file name
               >
           Download CV
