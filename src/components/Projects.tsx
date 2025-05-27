@@ -52,9 +52,9 @@ const Projects = () => {
       title: 'Personal Portfolio Website',
       description: 'A responsive portfolio showcasing projects with smooth animations, built using React, TypeScript, and Tailwind CSS.',
       image:'https://images.unsplash.com/photo-1545665277-5937489579f2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      technologies: ['Vue.js', 'Laravel', 'MySQL', 'Redis', 'Docker'],
-      liveDemo: '#',
-      github: '#',
+      technologies: ['React', 'Vite', 'Tailwind CSS'],
+      liveDemo: 'https://portfolio-website-phi-one-44.vercel.app/',
+      github: 'https://github.com/Karthi-1211/Portfolio',
       category: 'Frontend',
       status: 'Completed',
       features: ['Responsive Design', 'Smooth Animations', 'Project Showcase', 'Contact Form', 'SEO Optimized']
