@@ -87,13 +87,14 @@ const Footer = () => {
             
         <div className="mt-6 text-center">
         <p className="text-gray-400 text-sm mb-2">Download CV</p>
-        <a
-        href="/Alamanda_Balu_Karthik.pdf" // Adjust this path based on your PDF location
-      download="Alamanda_Balu_Karthik.pdf" // Optional: customize the downloaded file name
-      className="inline-block bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-cyan-600 hover:to-purple-600 text-white px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-300 hover:scale-105 cursor-pointer"
-        >
-        Download PDF
-      </a>
+        <Button className="bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700 text-white">
+          <a
+             href="https://drive.google.com/file/d/1h2WpqApLtVCiKLUXQnItTpNi52Hb_FKc/view?usp=sharing" // Adjust this path based on your PDF location
+              download="Alamanda_Balu_Karthik.pdf" // Optional: customize the downloaded file name
+              >
+          Download CV
+          </a>
+        </Button>
       </div>
           </div>
         </div>
