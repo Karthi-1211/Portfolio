@@ -105,7 +105,7 @@ const About = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 to-blue-600 rounded-3xl animate-pulse-glow"></div>
               <div className="absolute inset-2 bg-gray-800 rounded-3xl card-3d group-hover:scale-105 group-hover:shadow-2xl group-hover:shadow-cyan-500/20 transition-all duration-500">
                 <img 
-                  src="/BK Pic.png"
+                  src="https://drive.google.com/file/d/1-z8JKaAo1zGTarRxzk1ReQ9xcDdgHhWB/view?usp=sharing"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
