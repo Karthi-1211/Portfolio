@@ -54,13 +54,13 @@ const Navigation = () => {
         </div>
 
         <Button className="bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700 text-white">
-          <a
-             href="https://drive.google.com/file/d/1h2WpqApLtVCiKLUXQnItTpNi52Hb_FKc/view?usp=sharing" // Adjust this path based on your PDF location
-              download="Alamanda_Balu_Karthik.pdf" // Optional: customize the downloaded file name
-              >
-          Download CV
-          </a>
-        </Button>
+  <a
+    href="https://drive.google.com/uc?export=download&id=1h2WpqApLtVCiKLUXQnItTpNi52Hb_FKc"
+    download="Alamanda_Balu_Karthik.pdf"
+  >
+    Download CV
+  </a>
+</Button>
       </div>
     </nav>
   );
